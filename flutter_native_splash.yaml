@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: "lib/assets/MircrofinLogo.png"
+  color_dark: "#121212"
+  image_dark: "lib/assets/MircrofinLogo.png"
+  android: true
+  ios: true
+  web: false
